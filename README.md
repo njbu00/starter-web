@@ -20,3 +20,5 @@ adding how to contribute - make a fork and create pull request
 how to deploy
 
 ## Copyright
+
+all rights reserved
