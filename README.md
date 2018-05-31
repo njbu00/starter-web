@@ -9,6 +9,8 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
+Adding introduction text
+
 ## How to contribute
 
 ## Deployment
