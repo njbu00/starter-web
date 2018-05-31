@@ -13,4 +13,8 @@ Adding introduction text
 
 ## How to contribute
 
+adding how to contribute
+
 ## Deployment
+
+how to deploy
