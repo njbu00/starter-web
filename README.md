@@ -18,3 +18,5 @@ adding how to contribute
 ## Deployment
 
 how to deploy
+
+## Copyright
