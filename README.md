@@ -13,7 +13,7 @@ Adding introduction text
 
 ## How to contribute
 
-adding how to contribute
+adding how to contribute - make a fork and create pull request
 
 ## Deployment
 
